@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello there!
+
+Erin here, ready to rock and roll.
